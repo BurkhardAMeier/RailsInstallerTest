@@ -1,0 +1,4 @@
+RailsInstallerTest
+==================
+
+First GitHub  repository
